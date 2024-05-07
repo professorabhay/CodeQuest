@@ -7,6 +7,12 @@ export const socials = [
     url: "https://abhayporwals.tech/",
     handle: "abhayporwals.tech",
   },
+  {
+    id: 2,
+    name: "Twitter",
+    url: "https://twitter.com/professorabhay",
+    handle: "abhayporwals.tech",
+  },
 ];
 
 const title = "CodeQuest - Abhay Gupta";
