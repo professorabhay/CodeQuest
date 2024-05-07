@@ -112,12 +112,11 @@ function NewsletterForm() {
                   <span className="text-[#ADB0B1]">
                     {successMessage.email_address}
                   </span>{" "}
-                  to our waitlist. We&apos;ll let you know when we launch!
+                  to our list. You&apos;ll receive an e-mail from us soon!
                 </p>
               ) : (
                 <p>
-                  You are already added to our waitlist. We&apos;ll let you know
-                  when we launch!
+                  You are already added to our list. You&apos;ll receive an e-mail from us soon!
                 </p>
               )}
             </div>
